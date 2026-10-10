@@ -27,19 +27,19 @@ My background in law has shaped how I approach evidence, risk, and documentation
 
 - 🔎 **Focus:** Penetration testing and vulnerability assessment
 - 🧪 **Practice:** Authorized labs, CTF challenges, and personal projects
-- 📍 **Location:** Riyadh, Saudi Arabia
+- 🖈 **Location:** Riyadh, Saudi Arabia
 
 ---
 
 ## Certifications & Training
 
-- **CompTIA Security+** — CompTIA
-- **eJPTv2** — INE
-- **CJCA** — Certified Junior Cybersecurity Associate — Hack The Box
-- **CS50x** — HarvardX / edX
-- **SOC Analyst Learning Path** — LetsDefend
+- **CompTIA Security+ - CompTIA
+- **eJPTv2** - INE
+- **CJCA** - Certified Junior Cybersecurity Associate - Hack The Box
+- **CS50x** - HarvardX / edX
+- **SOC Analyst Learning Path** - LetsDefend
 
-**Currently studying:** CPTS · eCPPTv3 · C++ fundamentals
+**Currently studying:** eCPPTv3 · C++
 
 ---
 
@@ -67,7 +67,7 @@ My background in law has shaped how I approach evidence, risk, and documentation
 
 ## CTF Experience
 
-**Hack The Box — Cyber Apocalypse CTF 2026**
+**Hack The Box - Cyber Apocalypse CTF 2026**
 
 - Ranked **399th out of 6,744 teams** (top 5% globally)
 - Solved challenges in web, crypto, and forensics categories
@@ -97,7 +97,7 @@ Python scripts for practicing common web application vulnerabilities in a contro
 
 ---
 
-### 🎓 URL Shortener — CS50x
+### 🎓 URL Shortener - CS50x
 
 A web application built as the final capstone project for Harvard's CS50x.
 
