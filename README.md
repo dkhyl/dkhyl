@@ -132,6 +132,4 @@ A lightweight Bash utility for searching multiple websites from a single interfa
 </a>
 
 </div>
-
----
 </div>
