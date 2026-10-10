@@ -4,7 +4,7 @@
 
 # Hi, I'm Dakhel Alhawtah
 
-**Aspiring Penetration Tester | Cybersecurity**
+**Aspiring SOC Analyst | Offensive & Defensive Security**
 
 Building practical security skills through hands-on labs, CTFs, and technical projects.
 
