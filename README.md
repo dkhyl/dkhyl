@@ -39,7 +39,7 @@ My background in law has shaped how I approach evidence, risk, and documentation
 - **CS50x** - HarvardX / edX
 - **SOC Analyst Learning Path** - LetsDefend
 
--> Currently studying: eCPPTv3 · C++
+🔴 **Currently Studying:** `eCPPTv3` · `C++`
 
 ---
 
