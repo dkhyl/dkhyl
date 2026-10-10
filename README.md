@@ -33,7 +33,7 @@ My background in law has shaped how I approach evidence, risk, and documentation
 
 ## Certifications & Training
 
-- **CompTIA Security+ - CompTIA
+- CompTIA Security+ - CompTIA
 - **eJPTv2** - INE
 - **CJCA** - Certified Junior Cybersecurity Associate - Hack The Box
 - **CS50x** - HarvardX / edX
