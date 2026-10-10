@@ -134,9 +134,4 @@ A lightweight Bash utility for searching multiple websites from a single interfa
 </div>
 
 ---
-
-<div align="center">
-
-*Building honestly. One lab at a time.*
-
 </div>
