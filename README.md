@@ -48,10 +48,9 @@ My background in law has shaped how I approach evidence, risk, and documentation
 **Offensive Security**
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
 ![Sliver](https://img.shields.io/badge/Sliver_C2-231F20?style=flat&logo=gnubash&logoColor=red)
-![Netcat](https://img.shields.io/badge/Netcat-00599C?style=flat)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 
 **Networking & Systems**
 
