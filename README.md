@@ -27,7 +27,7 @@ My background in law has shaped how I approach evidence, risk, and documentation
 
 - 🔎 **Focus:** Penetration testing and vulnerability assessment
 - 🧪 **Practice:** Authorized labs, CTF challenges, and personal projects
-- 🖈  **Location:** Riyadh, Saudi Arabia
+- 📍 **Location:** Riyadh, Saudi Arabia
 
 ---
 
@@ -39,8 +39,8 @@ My background in law has shaped how I approach evidence, risk, and documentation
 - **CS50x** - HarvardX / edX
 - **SOC Analyst Learning Path** - LetsDefend
 
-**Currently studying:** 
-eCPPTv3 · C++
+-> Currently studying: eCPPTv3 · C++
+
 ---
 
 ## Skills & Tools
