@@ -1,125 +1,119 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dkhyl/dkhyl.github.io/main/images/glider.svg" width="60" alt="Hacker Emblem" />
+<img src="https://raw.githubusercontent.com/dkhyl/dkhyl.github.io/main/images/glider.svg" width="60" alt="Cybersecurity Emblem" />
 
-# Hi, I'm Dakhel
+# Hi, I'm Dakhel Alhawtah
 
-**Law Graduate → Penetration Tester | SOC Analyst**
+**Aspiring Penetration Tester | Cybersecurity**
+
+Building practical security skills through hands-on labs, CTFs, and technical projects.
 
 <a href="https://dkhyl.github.io">
-  <img src="https://img.shields.io/badge/🌐_View_Portfolio-dkhyl.github.io-58a6ff?style=for-the-badge" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-58a6ff?style=for-the-badge" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/dakhel-a-251453159/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-Law graduate transitioning into cybersecurity with hands-on
-experience in IT support, penetration testing, and log analysis.
+I'm a Law graduate transitioning into cybersecurity, with a focus on penetration testing, network enumeration, and vulnerability assessment.
 
-My legal background gives me a unique edge:
+My background in law has shaped how I approach evidence, risk, and documentation. I apply that mindset to security testing by investigating potential weaknesses, validating findings in controlled environments, and documenting practical remediation steps.
 
-- **Detail-oriented** — I read logs the way I read contracts
-- **Risk-focused** — I think in business impact, not just CVSS scores
-- **Report-driven** — I translate technical findings for non-technical stakeholders
-
-📍 Based in Riyadh, Saudi Arabia 🇸🇦
+- 🔎 **Focus:** Penetration testing and vulnerability assessment
+- 🧪 **Practice:** Authorized labs, CTF challenges, and personal projects
+- 📍 **Location:** Riyadh, Saudi Arabia
 
 ---
 
-## 📜 Certifications
+## Certifications & Training
 
-<div align="center">
+- **CompTIA Security+** — CompTIA
+- **eJPTv2** — INE
+- **CJCA** — Certified Junior Cybersecurity Associate — Hack The Box
+- **CS50x** — HarvardX / edX
+- **SOC Analyst Learning Path** — LetsDefend
 
-| Certification | Issuer |
-|---|---|
-| **Security+ (SY0-701)** | CompTIA |
-| **eJPTv2** — Junior Penetration Tester | INE Security |
-| **CJCA** — Certified Junior Cybersecurity Associate | Hack The Box |
-| **CS50x** — Introduction to Computer Science | Harvard (edX) |
-| **SOC Analyst Learning Path** | LetsDefend |
-
-</div>
-
-**Currently Studying:** 🎯 CPTS · 🎯 eCPPTv3 · 🎯 C++ Fundamentals
+**Currently studying:** CPTS · eCPPTv3 · C++ fundamentals
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-**Offensive Security:**
+**Offensive Security**
 
-![Kali](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
-![Burp](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
 
-**Networking & Fundamentals:**
+**Networking & Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-**Scripting (Learning):**
+**Scripting & Development**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++_Learning-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
-## 🏆 CTF Achievement
+## CTF Experience
 
 **Hack The Box — Cyber Apocalypse CTF 2026**
-- Ranked **399th out of 6,744 teams globally** (top 5%)
-- Solved challenges across web, crypto, and forensics categories
-- Previously competed in **Black Hat MEA CTF** (2021, 2022)
+
+- Ranked **399th out of 6,744 teams** (top 5% globally)
+- Solved challenges in web, crypto, and forensics categories
+- Participated in **Black Hat MEA CTF** in 2021 and 2022
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔐 [Dakhel Law Firm Pentest Lab](https://dkhyl.github.io/project-lawfirm.html)
-> A planned simulated internal network assessment — hosted in Azure,
-> with OpenVPN tunneling and full 5-phase methodology.
+### 🔐 Dakhel Law Firm Pentest Lab
 
-**Status:** 🔨 In Progress
+A simulated internal security assessment of a fictional law firm, focused on network enumeration, identifying weaknesses, evidence collection, and remediation reporting. Hosted in Azure with OpenVPN tunneling.
 
----
+**Status:** In progress
 
-### 🕸️ [DVWA Automation](https://dkhyl.github.io/project-dvwa.html)
-> Python automation for practicing web exploitation against DVWA at
-> the low security level. Requests, BeautifulSoup, and session handling.
-
-**Tech:** `Python` · `Requests` · `BeautifulSoup`
+[📖 Read full write-up](https://dkhyl.github.io/project-lawfirm.html) · [💻 GitHub Repository](https://github.com/dkhyl/dkhyl.github.io)
 
 ---
 
-### 🎓 [URL Shortener — CS50x](https://dkhyl.github.io/project-cs50.html)
-> A Flask web application built as the final capstone for Harvard's CS50x.
+### 🕸️ DVWA Automation
 
-**Tech:** `Python` · `Flask` · `HTML/CSS/JS`
+Python scripts for practicing common web application vulnerabilities in a controlled DVWA environment.
 
----
+**Technologies:** Python · Requests · BeautifulSoup
 
-### 🔍 [Search4Me](https://dkhyl.github.io/project-search4me.html)
-> A lightweight Bash tool built after a CTF to automate OSINT search tasks.
-
-**Tech:** `Bash` · `Linux`
+[📖 Read full write-up](https://dkhyl.github.io/project-dvwa.html) · [💻 GitHub Repository](https://github.com/dkhyl/dvwa-low)
 
 ---
 
-## 📊 GitHub Stats
+### 🎓 URL Shortener — CS50x
 
-<div align="center">
+A web application built as the final capstone project for Harvard's CS50x.
 
-<img src="https://github-readme-stats.vercel.app/api?username=dkhyl&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+**Technologies:** Python · Flask · JavaScript · HTML/CSS
 
-</div>
+[📖 Read full write-up](https://dkhyl.github.io/project-cs50.html) · [💻 GitHub Repository](https://github.com/dkhyl/Final-Project-CS50)
+
+---
+
+### 🔍 Search4Me
+
+A lightweight Bash utility for searching multiple websites from a single interface. Built after a CTF to automate routine OSINT tasks.
+
+**Technologies:** Bash · Linux
+
+[📖 Read full write-up](https://dkhyl.github.io/project-search4me.html) · [💻 GitHub Repository](https://github.com/dkhyl/search4me)
 
 ---
 
@@ -128,13 +122,13 @@ My legal background gives me a unique edge:
 <div align="center">
 
 <a href="https://dkhyl.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-dkhyl.github.io-58a6ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-dkhyl.github.io-58a6ff?style=for-the-badge" />
 </a>
 <a href="https://www.linkedin.com/in/dakhel-a-251453159/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dakhel_Alhawtah-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Dakhel_Alhawtah-0A66C2?style=for-the-badge" />
 </a>
-<a href="https://github.com/dkhyl">
-  <img src="https://img.shields.io/badge/GitHub-@dkhyl-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/dkhyl?tab=repositories">
+  <img src="https://img.shields.io/badge/🐙_GitHub-@dkhyl-181717?style=for-the-badge" />
 </a>
 
 </div>
@@ -143,6 +137,6 @@ My legal background gives me a unique edge:
 
 <div align="center">
 
-<i>"Building honestly. One lab at a time."</i>
+*Building honestly. One lab at a time.*
 
 </div>
